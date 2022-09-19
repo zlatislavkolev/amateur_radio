@@ -2,7 +2,7 @@ var quizJSON = {
     "info": {
         "name":    "Изпит клас 1",
         "main":    "<p>Актуализиран конспект 31.05.2022г.</p>",
-        "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
+        "results": "<h5></h5><p></p>",
         "level1":  "Jeopardy Ready",
         "level2":  "Jeopardy Contender",
         "level3":  "Jeopardy Amateur",
